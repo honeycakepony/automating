@@ -1,3 +1,7 @@
+# created 14-01-2024
+# author: honeycakepony
+""" IDEA: automatically compare digests, append digest to .txt-file"""
+
 import subprocess
 import os
 from pathlib import Path
